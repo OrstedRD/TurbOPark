@@ -1,7 +1,7 @@
 # TurbOPark
 A Turbulence Optimized Park model.
 
-The TurbOPark wake model has been developed by Ørsted and was validated on 19 offshore wind farms coupled with a bloackage and a flow model.
+The TurbOPark wake model has been developed by Ørsted and was validated on 19 offshore wind farms coupled with a blockage and a flow model.
 
 ## Documentation
 A note describing the wake model can be found here: [TurbOPark description](https://github.com/OrstedRD/TurbOPark/blob/main/TurbOPark%20description.pdf)
